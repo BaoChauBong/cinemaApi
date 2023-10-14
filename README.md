@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 <img src="image/home.png" width="80%"/> 
 
 ## Type Movie
-| <img src="image/typeMovie.png" width="300"/> | <img src="image/typeMovie.png" width="300"/> | <img src="image/typeMovie.png" width="300"/> |
+| <img src="image/typeMovie.png" width="300"/> | <img src="image/typeMovie1.png" width="300"/> | <img src="image/typeMovie2.png" width="300"/> | <img src="image/typeMovie3.png" width="300"/> |
 
 ## Search Page
 <img src="image/searchPage.png" width="80%"/> 
