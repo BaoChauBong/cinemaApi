@@ -1,5 +1,5 @@
 # Netflix Like Website in Angular 16 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.<br/>
 Inspired by https://github.com/sachindh97
 
 ## Technology
