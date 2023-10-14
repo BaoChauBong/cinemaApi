@@ -3,7 +3,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Inspired by https://github.com/sachindh97
 
 ## Technology
-- Angular 14
+- Angular 16
 - HTML/CSS
   
 ## Screenshots
